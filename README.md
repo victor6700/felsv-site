@@ -140,9 +140,9 @@
 
   <section id="contato">
     <h2>Contato</h2>
-    <p>Email: contato@felsv.com<br />
-       WhatsApp: (11) 99999-9999<br />
-       Endereço: Avenida do Futuro, 404 - São Paulo, SP</p>
+    <p>Email:victorfeles@gmail.com/>
+       WhatsApp: (51) 99527-5195<br />
+       Endereço: linha são roque, 404 - Arroio do Tigre, RS</p>
   </section>
 
   <footer>
